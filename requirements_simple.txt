@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-CORS
+Flask-Bcrypt
+Flask-Mail
+pandas
+numpy
+scikit-learn
+Werkzeug
+python-dotenv
+email-validator
+marshmallow
+flask-marshmallow
+marshmallow-sqlalchemy
